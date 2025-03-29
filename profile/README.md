@@ -24,11 +24,16 @@
 ![image](https://github.com/user-attachments/assets/1e24618b-74de-4949-8df2-470a12bba232)
 
 ## 📱결과물
-![image](https://github.com/user-attachments/assets/d1cd1893-5e1d-4b4b-bf40-8638344e6bf2)
-![image](https://github.com/user-attachments/assets/66237033-6110-4c3f-9064-c873bc733ff1)
-![image](https://github.com/user-attachments/assets/e0135556-f7b4-43c4-8cac-b35684adf85d)
-![image](https://github.com/user-attachments/assets/a6246528-144e-4a44-9f4b-2f96d119de70)
-![image](https://github.com/user-attachments/assets/05ec8f3e-b795-4d98-a331-61f530957bf5)
+
+<div style="display: flex; gap: 0;">
+  <img src="https://github.com/user-attachments/assets/d1cd1893-5e1d-4b4b-bf40-8638344e6bf2" style="width: 20%; object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/66237033-6110-4c3f-9064-c873bc733ff1" style="width: 20%; object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/e0135556-f7b4-43c4-8cac-b35684adf85d" style="width: 20%; object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/a6246528-144e-4a44-9f4b-2f96d119de70" style="width: 20%; object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/05ec8f3e-b795-4d98-a331-61f530957bf5" style="width: 20%; object-fit: cover;" />
+</div>
+
+
 
 <br>
 
